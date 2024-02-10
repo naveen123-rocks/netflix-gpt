@@ -2,8 +2,18 @@ import React from 'react'
 
 const Browse = () => {
   return (
-    <div>Browse</div>
+    <>
+      <div>
+     hi naveen handsome 
+   </div>
+   <div>
+     hi naveen handsome 
+   </div>
+    </>
+   
+   
+
   )
-}
+}   
 
 export default Browse
